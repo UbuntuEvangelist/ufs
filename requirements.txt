@@ -14,3 +14,4 @@ Pillow
 coverage
 django-debug-toolbar
 flake8
+django>=1.8.16 # not directly required, pinned by Snyk to avoid a vulnerability
